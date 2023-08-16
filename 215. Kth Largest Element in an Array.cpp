@@ -22,7 +22,7 @@ class Solution {
 //removing k-1 values from maxHeap
 // peeking the top value after removing k-1 values
 
--------------------
+
 
 // naive approach
 
